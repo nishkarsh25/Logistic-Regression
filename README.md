@@ -12,6 +12,7 @@ This can be particularly useful if you're experiencing issues with GitHub's web 
 
 ## Introduction
 This is a logistic regression model for binary classification. It reads a CSV file containing input data with two attributes and a target class label, and pre-processes the data by removing unwanted columns and splitting it into training and test sets.
+
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/117291117/232397236-ac31019b-7a3e-49fd-acce-d765907dcd86.png">
 
 
